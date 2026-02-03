@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "0f29f40e1c09c70e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1c1d4d99c75bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0daffbc0081569a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f71d69e9855b7903",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dcbcb9b21359435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32b8f2fbd77da649",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7abc53d857fef194",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "489507f2afdfcdd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39a0e3b4c678b9a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f9ca30490649a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd236ec0e90dde1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "68eb252550fb8499",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e08fae26cb006215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "354c39b7320498c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b9d2706ec77f51a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bdb801f5906dd8c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1458c256fbfe3bf3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0daffbc0081569a7",
+  "lastOpenFiles": [
+    "Templates/ClassNoteTemplate.md",
+    "Templates/ResearchTemplate.md",
+    "Templates",
+    "SSL.md",
+    "Software Testing.md",
+    "Single Sign-On.md",
+    "Riverpod.md",
+    "Research/null.md",
+    "Research/collision.md",
+    "Research/chaining.md",
+    "Research/Sorting.md",
+    "Research/Hash Table.md",
+    "Research/LIFO.md",
+    "Research/Singly-linked list.md",
+    "Research/Selection Sort.md",
+    "Research/Rational Expressions.md",
+    "Research/Radix Sort.md",
+    "Research/Quick Sort.md",
+    "Research/Insertion Sort.md",
+    "Research/Merge Sort.md",
+    "Research/List.md",
+    "Research/Bubble Sort.md",
+    "Research/Bucket Sort.md",
+    "Research/7 Most Common Data Structures.md",
+    "Research/Graphs and Limits.md",
+    "Research/Fast Sorting Algorithm.md",
+    "Research/Doubly-linked list.md",
+    "Research",
+    "Reference Notes",
+    "Files/Image Bank/StorageHierarchy.png",
+    "Files/Image Bank/proj8022.png",
+    "Files/Image Bank/organizationOfASystem.jpeg",
+    "Files/Image Bank/Screenshot 2023-09-20 at 8.07.11 PM.png",
+    "Files/Image Bank/Screenshot 2023-09-20 at 8.06.40 PM.png",
+    "Files/Image Bank/Screenshot 2023-09-20 at 8.17.33 PM.png",
+    "Files/Image Bank/IPAddclasses.png",
+    "Files/Image Bank/Pasted image 20230818101223.png",
+    "Files/Image Bank/Proj8021.png",
+    "Files/Image Bank/OSI2.png",
+    "Files/Image Bank",
+    "Files/Excalidraw (Drawing Bank)",
+    "Files",
+    "Classes/Programming/Python Concepts",
+    "Classes/Programming/Object Oriented Programming",
+    "Classes/Programming/C++ Data Structures & Algorithms",
+    "Classes/Programming/C++ Concepts"
+  ]
+}
