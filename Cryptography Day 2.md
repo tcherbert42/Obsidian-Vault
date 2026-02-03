@@ -1,4 +1,3 @@
-\begin{matrix}
 ________
 02-02-2026 | 01:05
 Status: #school 

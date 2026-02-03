@@ -11,10 +11,14 @@
             "id": "0daffbc0081569a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography Day 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cryptography Day 2"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cryptography Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cryptography Day 2"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cryptography Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cryptography Day 2"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cryptography Day 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cryptography Day 2"
             }
           },
           {
@@ -198,8 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0daffbc0081569a7",
+  "active": "1458c256fbfe3bf3",
   "lastOpenFiles": [
+    "Cryptography - Day 1.md",
+    "Cryptography Day 2.md",
     "Templates/ClassNoteTemplate.md",
     "Templates/ResearchTemplate.md",
     "Templates",
@@ -225,8 +234,6 @@
     "Research/Bucket Sort.md",
     "Research/7 Most Common Data Structures.md",
     "Research/Graphs and Limits.md",
-    "Research/Fast Sorting Algorithm.md",
-    "Research/Doubly-linked list.md",
     "Research",
     "Reference Notes",
     "Files/Image Bank/StorageHierarchy.png",
