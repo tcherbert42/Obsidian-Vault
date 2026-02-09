@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Cryptography Day 2"
             }
+          },
+          {
+            "id": "09cbc121a01c5335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography - Day 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography - Day 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "39a0e3b4c678b9a2",
@@ -205,10 +221,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1458c256fbfe3bf3",
+  "active": "09cbc121a01c5335",
   "lastOpenFiles": [
-    "Cryptography - Day 1.md",
+    "Cryptography - Day 3.md",
     "Cryptography Day 2.md",
+    "Cryptography - Day 1.md",
     "Templates/ClassNoteTemplate.md",
     "Templates/ResearchTemplate.md",
     "Templates",
@@ -233,7 +250,6 @@
     "Research/Bubble Sort.md",
     "Research/Bucket Sort.md",
     "Research/7 Most Common Data Structures.md",
-    "Research/Graphs and Limits.md",
     "Research",
     "Reference Notes",
     "Files/Image Bank/StorageHierarchy.png",
