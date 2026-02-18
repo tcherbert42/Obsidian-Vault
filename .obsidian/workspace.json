@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography - Day 5.md",
+                "file": "CSC 4610 - CICD Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography - Day 5"
+              "title": "CSC 4610 - CICD Automation"
             }
           }
         ],
@@ -207,13 +207,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1458c256fbfe3bf3",
+  "active": "16a1084d169a73f7",
   "lastOpenFiles": [
-    "Cryptography - Day 2.md",
     "Cryptography - Day 5.md",
+    "Cryptography - Day 2.md",
     "Cryptography - Day 4.md",
     "Cryptography - Day 3.md",
-    "CICD Automation.md",
+    "CSC 4610 - CICD Automation.md",
     "Cryptography - Day 1.md",
     "Templates/ClassNoteTemplate.md",
     "Templates/ResearchTemplate.md",
