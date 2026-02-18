@@ -31,7 +31,7 @@ The most famous Image in Cryptography
 # Cipher Block Chaining (CBC)
 **Definition**
 - Input is XOR of current plaintext and previous cipher-text
-- $C_i = E_k(P_i \XOR C_{i-1})$ 
+- $C_i = E_k(P_i$ $XOR$ $C_{i-1})$ 
 **The Initialization Vector (IV)**
 - Used for the first block
 
@@ -46,7 +46,7 @@ randomness $\neq$ decoration - it's structural
 
 ### CBC Error Propagation
 Decryption Formula
-- $P_i = D_k(C_i) \XOR C_{i-1}$ 
+- $P_i = D_k(C_i)$ XOR $C_{i-1}$ 
 Scenario: Single bit error $C_1$
 - Block 1 ($P_1$): Completely garbled (Avalanche Effect)
 - Block 2 ($P_2$): Specific bit error (XOR bit flip)
@@ -57,7 +57,7 @@ Scenario: Single bit error $C_1$
 ### Counter Mode
 
 ## CTR Mode Is Secure Only *If* the Nonce Is Never Reused
-$C_1 \XOR C_2 = P_1 \XOR P_2$ 
+$C_1$ XOR $C_2 = P_1$ XOR $P_2$ 
 
 Reusing a nonce turns CTR into a two-time pad -one of the oldest cryptographic disasters. 
 Nonce + counter pair must never repreat under the same key
