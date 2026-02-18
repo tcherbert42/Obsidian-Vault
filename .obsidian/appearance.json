@@ -1,5 +1,6 @@
 {
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
-  "textFontFamily": ""
+  "textFontFamily": "Arial",
+  "baseFontSize": 18
 }
