@@ -1,0 +1,1 @@
+Currently location is only asked for and prompted after esp32 has finished scanning and is about to insert into database. Should we move the ask to use location prompt to when you first start the app? Then could we pass it to Google Maps API to show actual location on map instead of just default map location? 
