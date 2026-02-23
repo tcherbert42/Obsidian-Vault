@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0daffbc0081569a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography Day 2"
-            }
-          },
-          {
-            "id": "09cbc121a01c5335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography - Day 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography - Day 3"
-            }
-          },
-          {
             "id": "16a1084d169a73f7",
             "type": "leaf",
             "state": {
@@ -62,9 +34,23 @@
               "icon": "lucide-file",
               "title": "EagleAware Changes"
             }
+          },
+          {
+            "id": "9607476c6930e601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography - Day 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography - Day 6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "39a0e3b4c678b9a2",
@@ -207,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EagleAware Changes.md",
+                "file": "Cryptography - Day 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EagleAware Changes"
+              "title": "Backlinks for Cryptography - Day 6"
             }
           },
           {
@@ -226,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EagleAware Changes.md",
+                "file": "Cryptography - Day 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EagleAware Changes"
+              "title": "Outgoing links from Cryptography - Day 6"
             }
           },
           {
@@ -240,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EagleAware Changes.md",
+                "file": "Cryptography - Day 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EagleAware Changes"
+              "title": "Outline of Cryptography - Day 6"
             }
           }
         ],
@@ -270,11 +255,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c0be80fa25d7dfd3",
+  "active": "9607476c6930e601",
   "lastOpenFiles": [
-    "CSC 4610 - CICD Automation.md",
-    "EagleAware Changes.md",
     "Cryptography - Day 5.md",
+    "Cryptography - Day 6.md",
+    "EagleAware Changes.md",
+    "CSC 4610 - CICD Automation.md",
     "Cryptography - Day 2.md",
     "Cryptography - Day 4.md",
     "Cryptography - Day 3.md",
@@ -298,7 +284,6 @@
     "Research/Radix Sort.md",
     "Research/Quick Sort.md",
     "Research/Insertion Sort.md",
-    "Research/Merge Sort.md",
     "Research",
     "Reference Notes",
     "Files/Image Bank/StorageHierarchy.png",
