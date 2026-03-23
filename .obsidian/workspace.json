@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "43bd2851c9aef316",
+            "id": "725038e08509db93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,19 +76,9 @@
               "icon": "lucide-file",
               "title": "Cryptography - Day ?"
             }
-          },
-          {
-            "id": "59f3e0e59bf3f6a2",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,7 +283,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "59f3e0e59bf3f6a2",
+  "active": "725038e08509db93",
   "lastOpenFiles": [
     "Cryptography - Day 7.md",
     "Cryptography - Day ?.md",
