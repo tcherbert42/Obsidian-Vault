@@ -13,86 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSC 4610 - CICD Automation.md",
+                "file": "Classes/Operating Systems/Operating Systems - Day 1 (Syllabus).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSC 4610 - CICD Automation"
+              "title": "Operating Systems - Day 1 (Syllabus)"
             }
           },
           {
-            "id": "c0be80fa25d7dfd3",
+            "id": "e3e499ccc29cddba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EagleAware Changes.md",
+                "file": "Operating Systems - Day 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EagleAware Changes"
+              "title": "Operating Systems - Day 5"
             }
           },
           {
-            "id": "9607476c6930e601",
+            "id": "dff894c054ca92a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography - Day 6.md",
+                "file": "Software Vulnerability Management in Modern Software Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography - Day 6"
-            }
-          },
-          {
-            "id": "7bb4ee986dc4cb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography - Day 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography - Day 10"
-            }
-          },
-          {
-            "id": "9c134eab10e03e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography - Day 11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography - Day 11"
-            }
-          },
-          {
-            "id": "725038e08509db93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography - Day 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography - Day 10"
+              "title": "Software Vulnerability Management in Modern Software Systems"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -281,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 436
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,18 +257,30 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "725038e08509db93",
+  "active": "1458c256fbfe3bf3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Cryptography - Day 10.md",
-    "Cryptography - Day 11.md",
+    "Operating Systems - Day 5.md",
+    "Software Vulnerability Management in Modern Software Systems.md",
+    "Classes/Operating Systems/Operating Systems - Day 1 (Syllabus).md",
+    "Classes/Soft. & Sys. Sec/Day 2.md",
+    "CSC 4610 - CICD Automation.md",
+    "Classes/Soft. & Sys. Sec",
+    "DES.md",
+    "Cryptography - Day 2.md",
     "Cryptography - Day 1.md",
+    "EagleAware Changes.md",
+    "Encryption Function.md",
+    "IT Security 11-18.md",
+    "Classes/Computer Networks/Computer Networks - Day 1 (Syllabus).md",
+    "Empower Meeting.md",
+    "Classes/Operating Systems",
+    "Cryptography - Day 10.md",
+    "Classes/Computer Networks",
+    "Cryptography - Day 11.md",
+    "Untitled.canvas",
     "Cryptography - Day 7.md",
     "Cryptography - Day 6.md",
     "Cryptography - Day 5.md",
-    "EagleAware Changes.md",
-    "CSC 4610 - CICD Automation.md",
-    "Cryptography - Day 2.md",
     "Cryptography - Day 4.md",
     "Cryptography - Day 3.md",
     "Templates/ClassNoteTemplate.md",
@@ -318,14 +290,6 @@
     "Software Testing.md",
     "Single Sign-On.md",
     "Riverpod.md",
-    "Research/null.md",
-    "Research/collision.md",
-    "Research/chaining.md",
-    "Research/Sorting.md",
-    "Research/Hash Table.md",
-    "Research/LIFO.md",
-    "Research/Singly-linked list.md",
-    "Research/Selection Sort.md",
     "Research",
     "Reference Notes",
     "Files/Image Bank/StorageHierarchy.png",
@@ -341,9 +305,6 @@
     "Files/Image Bank",
     "Files/Excalidraw (Drawing Bank)",
     "Files",
-    "Classes/Programming/Python Concepts",
-    "Classes/Programming/Object Oriented Programming",
-    "Classes/Programming/C++ Data Structures & Algorithms",
-    "Classes/Programming/C++ Concepts"
+    "Classes/Programming/Python Concepts"
   ]
 }
