@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "dff894c054ca92a4",
+            "id": "07e3c6e7fc4c9c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Vulnerability Management in Modern Software Systems.md",
+                "file": "csc_4200_5200_network_protocol_reference_guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Vulnerability Management in Modern Software Systems"
+              "title": "csc_4200_5200_network_protocol_reference_guide"
             }
           }
         ],
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "39a0e3b4c678b9a2",
@@ -257,9 +258,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dff894c054ca92a4",
+  "active": "07e3c6e7fc4c9c04",
   "lastOpenFiles": [
+    "SASS - Cross Site Scripting (XSS).md",
+    "CSC 4200_5200 Network Protocol Reference Guide.md",
+    "csc_4200_5200_network_protocol_reference_guide.md",
+    "Unconfirmed 44971.crdownload",
     "Operating Systems - Day 5.md",
+    "Untitled 1.canvas",
+    "Operating Systems - Exam 1 Review.md",
+    "Homework - 2 OS.md",
+    "LAB_1_SUBMISSION.md",
     "Software Vulnerability Management in Modern Software Systems.md",
     "Classes/Operating Systems/Operating Systems - Day 1 (Syllabus).md",
     "Classes/Soft. & Sys. Sec/Day 2.md",
@@ -283,13 +292,7 @@
     "Cryptography - Day 5.md",
     "Cryptography - Day 4.md",
     "Cryptography - Day 3.md",
-    "Templates/ClassNoteTemplate.md",
-    "Templates/ResearchTemplate.md",
     "Templates",
-    "SSL.md",
-    "Software Testing.md",
-    "Single Sign-On.md",
-    "Riverpod.md",
     "Research",
     "Reference Notes",
     "Files/Image Bank/StorageHierarchy.png",
@@ -304,7 +307,6 @@
     "Files/Image Bank/OSI2.png",
     "Files/Image Bank",
     "Files/Excalidraw (Drawing Bank)",
-    "Files",
-    "Classes/Programming/Python Concepts"
+    "Files"
   ]
 }
