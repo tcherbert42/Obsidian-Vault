@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csc_4200_5200_network_protocol_reference_guide.md",
+                "file": "Classes/Soft. & Sys. Sec/Testing-Maintenance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "csc_4200_5200_network_protocol_reference_guide"
+              "title": "Testing-Maintenance"
             }
           }
         ],
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "39a0e3b4c678b9a2",
@@ -260,9 +259,9 @@
   },
   "active": "07e3c6e7fc4c9c04",
   "lastOpenFiles": [
+    "csc_4200_5200_network_protocol_reference_guide.md",
     "SASS - Cross Site Scripting (XSS).md",
     "CSC 4200_5200 Network Protocol Reference Guide.md",
-    "csc_4200_5200_network_protocol_reference_guide.md",
     "Unconfirmed 44971.crdownload",
     "Operating Systems - Day 5.md",
     "Untitled 1.canvas",
